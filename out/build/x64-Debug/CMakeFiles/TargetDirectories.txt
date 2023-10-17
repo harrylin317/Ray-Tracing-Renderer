@@ -1,0 +1,3 @@
+C:/Uni/Year 3/Computer Graphics/project final/Render/out/build/x64-Debug/CMakeFiles/Renderer.dir
+C:/Uni/Year 3/Computer Graphics/project final/Render/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Uni/Year 3/Computer Graphics/project final/Render/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

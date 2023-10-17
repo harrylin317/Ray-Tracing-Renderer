@@ -1,0 +1,23 @@
+# ninja log v5
+1	873	6607736780276102	CMakeFiles/Renderer.dir/libs/sdw/CanvasTriangle.cpp.obj	e3843e192f3ea254
+10	880	6607736780286081	CMakeFiles/Renderer.dir/libs/sdw/Colour.cpp.obj	1e1c8151b7752554
+17	886	6607736780266132	CMakeFiles/Renderer.dir/libs/sdw/TexturePoint.cpp.obj	cbe4dee2e687a759
+4	981	6607736781373175	CMakeFiles/Renderer.dir/libs/sdw/CanvasPoint.cpp.obj	a6460072c4a0c288
+41	1069	6607736782290726	CMakeFiles/Renderer.dir/libs/sdw/Utils.cpp.obj	626eff03c4a3988f
+20	1076	6607736782360540	CMakeFiles/Renderer.dir/libs/sdw/TextureMap.cpp.obj	b8a705052e8cfc18
+13	1253	6607736784135787	CMakeFiles/Renderer.dir/libs/sdw/ModelTriangle.cpp.obj	f9f60f4aaa6d3ecc
+7	1356	6607736785013451	CMakeFiles/Renderer.dir/libs/sdw/DrawingWindow.cpp.obj	c73508914199c318
+25	1384	6607736785462238	CMakeFiles/Renderer.dir/libs/sdw/RayTriangleIntersection.cpp.obj	b120133d5da488ff
+37	1536	6607736786958253	CMakeFiles/Renderer.dir/src/parser.cpp.obj	71e21deeafe6b66a
+44	1538	6607736786948277	CMakeFiles/Renderer.dir/src/events.cpp.obj	a3d24f8c2f4ec517
+48	1553	6607736787177669	CMakeFiles/Renderer.dir/src/RasterisedRender.cpp.obj	7a72d6cd89dda7d8
+33	1653	6607736788165018	CMakeFiles/Renderer.dir/src/Renderer.cpp.obj	459e03bf1a8126e1
+29	1656	6607736788204918	CMakeFiles/Renderer.dir/src/RaytraceRender.cpp.obj	a0b18e401b86cbdc
+875	1754	6607736789192272	CMakeFiles/Renderer.dir/src/movement.cpp.obj	a57916584697c857
+886	1825	6607736789900719	CMakeFiles/Renderer.dir/src/animation.cpp.obj	b0769dc1c0097c7f
+881	1874	6607736790399382	CMakeFiles/Renderer.dir/src/generalFunctions.cpp.obj	6c28bb36eb4a1e0
+1875	3093	6607736797910029	Renderer.exe	5c968c0fe5c5f39a
+2	1002	6607922535332637	CMakeFiles/Renderer.dir/src/Renderer.cpp.obj	459e03bf1a8126e1
+1003	2429	6607922538489062	Renderer.exe	5c968c0fe5c5f39a
+1	1056	6607932125826243	CMakeFiles/Renderer.dir/src/Renderer.cpp.obj	459e03bf1a8126e1
+1057	1796	6607932128538857	Renderer.exe	5c968c0fe5c5f39a
